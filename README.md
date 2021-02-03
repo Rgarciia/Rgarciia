@@ -1,5 +1,4 @@
 ### Rene García | Web Developer :man_technologist:
-Tengo conocimientos en el desarrollo web, tanto en FrontEnd y BackEnd (UX/UI), sigo en aprendizaje constantemente en las nuevas herramientas de tecnología.
 <!--
 **Rgarciia/Rgarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
