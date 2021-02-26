@@ -1,4 +1,4 @@
-### Rene García | Web Developer :man_technologist:
+### Rene García | Desarrollador Web :man_technologist:
 <!--
 **Rgarciia/Rgarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
