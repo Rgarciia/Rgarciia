@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Toluca, Edo. Méx
-* ✉️  You can contact me at [http://www.brandon-projects.cloud/cv/](mailto:http://www.brandon-projects.cloud/cv/)
+* ✉️  You can contact me at [rene.reza_garcia@hotmail.com](mailto:rene.reza_garcia@hotmail.com)
 * 🧠  I'm learning Node.js, Vue.js, etc
 
 ### Skills
