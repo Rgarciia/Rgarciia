@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rene Garcia
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,dotnet,html,php,spring,nodejs,oracle,mysql,aws,gcp,git,github,docker,kubernetes,bash" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,php,spring,nodejs,oracle,mysql,aws,gcp,git,github,docker,kubernetes,bash" />
 </p>
 
 ---
