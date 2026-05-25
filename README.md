@@ -79,9 +79,4 @@ Passionate about building scalable solutions, leading high-performing teams, and
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/TU_PERFIL
-- Email: your.email@example.com
-
----
-
-> "Technology is most valuable when it helps people and businesses achieve meaningful outcomes."
+- Email: rene.reza_garcia@hotmail.com
