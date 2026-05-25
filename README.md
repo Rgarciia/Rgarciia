@@ -88,8 +88,8 @@ Currently focused on delivering scalable solutions, leading multidisciplinary te
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rgarcia&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rgarcia&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rgarcia&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rgarcia&layout=compact&theme=github_dark)
 
 ---
 
