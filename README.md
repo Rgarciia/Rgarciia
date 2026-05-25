@@ -1,25 +1,33 @@
 # 👋 Hi, I'm Rene Garcia
 
-Software Engineer with experience in software development, technical leadership, agile delivery, and solution architecture.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,aws,gcp,git,github,docker,kubernetes,mysql" />
+</p>
 
 ---
 
 ## 💼 Professional Summary
 
+Software Engineer with experience in software development, technical leadership, agile delivery, solution architecture, and enterprise technology initiatives.
+
+Currently focused on delivering scalable solutions, leading multidisciplinary teams, and aligning technology strategies with business objectives.
+
+---
+
+## 🚀 Professional Roles
+
 - 💻 Software Engineer
+- 👨‍💻 Technical Lead
 - 🏦 IT Delivery Manager
 - 🏗️ Solution Architecture
-- 👨‍💻 Technical Lead
 - 🔄 Scrum Master
 - 🚀 Agile Delivery & Digital Transformation
-
-Passionate about building scalable solutions, leading high-performing teams, and delivering business value through technology.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,21 +37,15 @@ Passionate about building scalable solutions, leading high-performing teams, and
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-### Methodologies
-
-- Agile
-- Scrum
-- Kanban
-- DevOps
-- CI/CD
-- Software Architecture
-
-### Tools
+### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
@@ -52,31 +54,71 @@ Passionate about building scalable solutions, leading high-performing teams, and
 
 - Enterprise Software Development
 - Technical Leadership
-- Software Architecture
+- Solution Architecture
 - Agile Project Delivery
+- Scrum & Agile Methodologies
 - Stakeholder Management
 - Banking & Financial Services Technology
+- Digital Transformation
+- System Integration
+- API Design & Development
+- Continuous Improvement
+- Team Mentoring
 
 ---
 
 ## 🎯 Current Focus
 
 - Enterprise Architecture
-- Cloud Solutions
+- Cloud Solutions (AWS & GCP)
 - Software Engineering Best Practices
 - Team Leadership
-- AI and Automation
+- AI & Automation
+- Scalable Distributed Systems
+- Modern Software Delivery
+
+---
+
+## 📚 Methodologies
+
+- Agile
+- Scrum
+- Kanban
+- DevOps
+- CI/CD
+- Domain-Driven Design (DDD)
+- Microservices Architecture
+- Event-Driven Architecture
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rgarcia&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rgarcia&layout=compact)
+
+---
+
+## 🌱 Continuous Learning
+
+I believe technology evolves every day, and continuous learning is essential to remain effective as both an engineer and a leader.
+
+Current areas of interest:
+
+- Artificial Intelligence
+- Cloud Computing
+- Enterprise Architecture
+- Software Design Patterns
+- Platform Engineering
+- Technology Leadership
 
 ---
 
 ## 📫 Contact
 
-- Email: rene.reza_garcia@hotmail.com
+📧 Email: rene.reza_garcia@hotmail.com
+
+---
+
+> "Building technology that delivers real business value while empowering teams to achieve their best results."
