@@ -1,42 +1,87 @@
-Hi 👋 My name is Brandon Rene Reza Garcia
-=========================================
+# 👋 Hi, I'm Rene Garcia
 
-Web Developer
--------------
+Software Engineer with experience in software development, technical leadership, agile delivery, and solution architecture.
 
-* 🌍  I'm based in Toluca, Edo. Méx
-* ✉️  You can contact me at [rene.reza_garcia@hotmail.com](mailto:rene.reza_garcia@hotmail.com)
-* 🧠  I'm learning Node.js, Vue.js, etc
+---
 
-### Skills
+## 💼 Professional Summary
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+- 💻 Software Engineer
+- 🏦 IT Delivery Manager
+- 🏗️ Solution Architecture
+- 👨‍💻 Technical Lead
+- 🔄 Scrum Master
+- 🚀 Agile Delivery & Digital Transformation
 
+Passionate about building scalable solutions, leading high-performing teams, and delivering business value through technology.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Rgarciia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brandon-rene-reza-garcia-36a024156" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## 🛠️ Technical Skills
 
-### Badges
+### Languages
 
-<b>My GitHub Stats</b>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<a href="http://www.github.com/Rgarciia"><img src="https://github-readme-stats.vercel.app/api?username=Rgarciia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rgarciia's GitHub stats" /></a>
+### Frameworks & Platforms
 
-<a href="http://www.github.com/Rgarciia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rgarciia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<a href="http://www.github.com/Rgarciia"><img src="https://activity-graph.herokuapp.com/graph?username=Rgarciia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Methodologies
 
-<a href="https://github.com/Rgarciia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rgarciia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- Agile
+- Scrum
+- Kanban
+- DevOps
+- CI/CD
+- Software Architecture
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📈 Areas of Expertise
+
+- Enterprise Software Development
+- Technical Leadership
+- Software Architecture
+- Agile Project Delivery
+- Stakeholder Management
+- Banking & Financial Services Technology
+
+---
+
+## 🎯 Current Focus
+
+- Enterprise Architecture
+- Cloud Solutions
+- Software Engineering Best Practices
+- Team Leadership
+- AI and Automation
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/TU_PERFIL
+- Email: your.email@example.com
+
+---
+
+> "Technology is most valuable when it helps people and businesses achieve meaningful outcomes."
